@@ -1,0 +1,82 @@
+@charset "utf-8";
+body header {
+    text-align: left;
+
+}
+body h1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: left;
+}
+body div div {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+body div {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body div {
+
+}
+body div img {
+
+}
+
+
+
+
+body ul {
+    text-align: left;
+}
+
+
+body ul {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+body nav {
+    background-color: #42DBCF;
+    border: medium solid #001592;
+    color: #FFFFFF;
+    border-radius: 4;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: x-large;
+    text-align: center;
+    letter-spacing: 0px;
+}
+body p {
+}
+body {
+    background-color: #B6B6B6;
+}
+
+.container form{
+    padding: 30px;
+    background-color:aliceblue;
+    border: #42DBCF;
+    border-style: inset;
+    border-width: 5px;
+}
+.container label{
+    padding: 0px 0px 200px 0px;
+    font-weight: bold;
+}
+.container textarea{
+    padding: 10px;
+    position:relative;
+    display: block;
+}
+.container button{
+    background-color:#42DBCF;
+    color:#001592;
+    padding: 7px;
+    font-weight: bolder;
+    font-size: medium;
+    border-color: #001592;
+    border-style: outset;
+}
